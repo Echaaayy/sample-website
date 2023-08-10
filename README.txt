@@ -1,2 +1,2 @@
-Hello this is just a sample website for an school activity, feel free to download and use it.
+Hello this is just a sample website. (still need some work done) this is for an school activity
 
